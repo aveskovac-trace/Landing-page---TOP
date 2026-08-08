@@ -8,6 +8,8 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
     align-items: center;
 }
 
@@ -28,4 +30,29 @@ a {
     text-decoration: none;
     list-style-type: none;
     color: #F9FAF8;
+}
+
+.box1 {
+    
+}
+
+.left-side {
+    height: 250px;
+    width: 650px;
+    color: #F9FAF8;
+}
+
+.left-side h1 {font-size: 60px;
+    margin-bottom: 4px;}
+
+.left-side p {
+    margin-top: 0;
+}  
+
+.btn {
+    background-color: #3882f6;
+    height: 35px;
+    width: 110px;
+    border-radius: 8px;
+    border: none;
 }
